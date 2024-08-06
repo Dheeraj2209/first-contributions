@@ -4,7 +4,7 @@
 - [Phoebe Gangoso](https://github.com/peewweee) **Phoebe's First open source contribution!**
 - [Lemuel Centina](https://github.com/whatataps123) **Lemuel's First open source 
 contribution!**
-- [Dheeraj Rajanala] (https://github.com/Dheeraj2209) **Dheeraj's First open source contribution!**
+- [Dheeraj2209] (https://github.com/Dheeraj2209) **Dheeraj's First open source contribution!**
 - [Thanh Nguyen Duc](https://github.com/ducthanhnguyen95) **First open source contribution!**
 - [Harshit Sharma](https://github.com/harshitsharma-dev) **Work to Learn**
 - [Daniela Cubillos](https://github.com/LDanic)
@@ -21,7 +21,36 @@ contribution!**
 - [webscriptmaster](https://github.com/webscriptmaster) **web and blockchain developer with a strong work ethic**
 - [Siniade](https://github.com/Siniade) **First open source contribution!**
 - [Mahumitha-b](https://github.com/madhumitha-b)
-- [MaksStuff](https://github.com/MaksStuff) **The first step into a career**
+- [MaksStuff](https://github.com/MaksStuff) **T/Contributors.md
+￼
+￼
+t
+￼
+Latest commit
+￼
+Dheeraj2209
+add dheeraj rajanala to contributors
+5c49596
+ · 
+3 minutes ago
+History
+History
+File metadata and controls
+￼
+Preview
+￼
+Code
+￼
+Blame
+6916 lines (6908 loc) · 348 KB
+￼
+Code 55% faster with GitHub Copilot
+Raw
+￼
+￼
+￼
+￼
+Contributorshe first step into a career**
 - [david gordon](https://github.com/dudigoo/) **second step**
 - [crabCatchhimer0](https://github.com/crabcatcher0/) **Learning**
 - [yuthadda](https://github.com/yuthadda)
